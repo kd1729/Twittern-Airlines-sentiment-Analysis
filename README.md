@@ -1,9 +1,12 @@
 # Twittern-Airlines-sentiment-Analysis-
 <H1>AI Project Semester 4</H1>
 <br>
+<br>
+<br>
+
 <H3> Project Members </H3>
 
-<em>
+<em><strong>
 <ol>
 <li>19BCE0249 ( Kaustubh Dwivedi )</li>
 
@@ -13,4 +16,4 @@
 
 <li>19BCE0200 ( Soumyaraj Roy )</li>
 </ol>
-<em>
+</strong></em>
